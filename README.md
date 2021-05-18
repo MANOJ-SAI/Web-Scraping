@@ -19,5 +19,10 @@ Download or getting images from the web sites using pyton
 
 ###### Required Libraries file installation commands:
 > - sudo apt-get python3-pip
-> - pip install urllib3
-> -pip install bs4
+> - pip install urllib
+> - pip install bs4
+# Steps to run the code
+> - **here are two source code files, one is .py extention and another is .ipynb extention**
+> - **e can run Scraping with Web-Scraping.py file in python by run this cammand in terminal "python3 Web Scraping with Web-Scraping.py"**
+> - **e can run Scraping with Web-Scraping.ipynb file in jupyter notebook /li>**
+> - **e can install juypyter notebook by this command "pip3 install jupyter"**
