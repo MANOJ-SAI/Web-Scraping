@@ -43,4 +43,5 @@ for i in img_url:
     ur.urlretrieve(i,fullpath)
     
 print("images-downloaded successfully")
+#Check that folder location the images are downloaded
 
