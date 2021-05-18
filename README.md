@@ -13,3 +13,11 @@ Download or getting images from the web sites using pyton
 - how to extract data from a website using classes and HTML tags
 - how to use requests module to get data
 - how to use Beautifulsoup
+
+###### Requirements:
+> What are the Requiremnets for doing this project is available in  Requiremnts.md file
+
+###### Required Libraries file installation commands:
+> - sudo apt-get python3-pip
+> - pip install urllib3
+> -pip install bs4
