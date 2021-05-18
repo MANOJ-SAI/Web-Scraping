@@ -1,4 +1,4 @@
 # Requirements:
 - python3
-- requests
+- urllib.requests
 - bs4
