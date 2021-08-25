@@ -22,7 +22,7 @@ Download or getting images from the web sites using pyton
 > - pip install urllib
 > - pip install bs4
 # Steps to run the code
-> - **here are two source code files, one is .py extention and another is .ipynb extention**
-> - **e can run Scraping with Web-Scraping.py file in python by run this cammand in terminal "python3 Web Scraping with Web-Scraping.py"**
-> - **e can run Scraping with Web-Scraping.ipynb file in jupyter notebook /li>**
-> - **e can install juypyter notebook by this command "pip3 install jupyter"**
+> - **There are two source code files, one is .py extention and another is .ipynb extention**
+> - **We can run Scraping with Web-Scraping.py file in python by run this cammand in terminal "python3 Web Scraping with Web-Scraping.py"**
+> - **We can run Scraping with Web-Scraping.ipynb file in jupyter notebook /li>**
+> - **We can install juypyter notebook by this command "pip3 install jupyter"**
